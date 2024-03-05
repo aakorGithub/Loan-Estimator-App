@@ -15,9 +15,6 @@ HTML, CSS, Javascript
 Tools and Frameworks
 Git, Git lens, Bootstrap
 
-# Demonstration
-<h1>Loan Calculator</h1>
-<img src = Screen Recording 2024-03-05 at 3.28.13 AM width= 400 ">
 
 
 
