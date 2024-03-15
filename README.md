@@ -19,7 +19,7 @@
 . Bootstrap
 
 # Demo
-. You can try out the loan calculator app: https://calculator.anthonyakor.com/
+. You can try out the loan calculator app: https://www.financeloancalculator.net
 
 
 
