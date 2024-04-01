@@ -19,7 +19,7 @@
 . Bootstrap
 
 # Demo
-. You can try out the loan calculator app: https://www.financeloancalculator.net
+. You can try out the loan calculator app here > : https://www.financeloancalculator.net
 
 
 
