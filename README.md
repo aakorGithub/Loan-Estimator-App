@@ -26,7 +26,8 @@ https://github.com/aakorGithub/Monthly-Loan-Calculator/assets/115869746/77e756e6
 
 
 
-. You can try out the loan calculator app here > :  https://www.financeloancalculator.net
+# Link to Demo
+https://www.financeloancalculator.net
 
 
 
