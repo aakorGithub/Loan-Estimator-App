@@ -22,7 +22,7 @@
 
 
 
-https://github.com/aakorGithub/Monthly-Loan-Calculator/assets/115869746/77e756e6-ca1b-4a16-a945-0baa9f1638ac
+
 
 
 
