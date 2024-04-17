@@ -19,7 +19,7 @@
 . Bootstrap
 
 # Link to Demo
-https://www.financeloancalculator.net
+https://s3.amazonaws.com/financeloancalculator.net/loan.html
 
 
 
