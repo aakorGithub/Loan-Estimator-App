@@ -16,6 +16,7 @@
 . Tools and Frameworks <br>
 . Git <br>
 . Gitlens <br>
+. AWS <br>
 . Bootstrap
 
 # Link to Demo
